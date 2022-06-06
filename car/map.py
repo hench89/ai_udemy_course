@@ -52,7 +52,7 @@ last_distance = 0
 # Creating the car class
 
 class Car(Widget):
-    
+
     angle = NumericProperty(0)
     rotation = NumericProperty(0)
     velocity_x = NumericProperty(0)
