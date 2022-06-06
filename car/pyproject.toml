@@ -6,10 +6,11 @@ authors = ["hench89 <58388701+hench89@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.8,<4.0"
+torch = "1.9.0"
 Kivy = "^2.1.0"
 numpy = "^1.22.4"
 matplotlib = "^3.5.2"
-torch = "^1.11.0"
+
 
 [tool.poetry.dev-dependencies]
 
