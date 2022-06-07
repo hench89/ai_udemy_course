@@ -4,5 +4,5 @@ Example from udemy course
 
 ## How to run
 
-poetry run python map.py
-
+Not possible to run from WSL.
+From windows, run: `poetry run python map.py`
